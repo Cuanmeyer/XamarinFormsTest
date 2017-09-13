@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/mtouch-cache/Link/System.dll
+Function=mono_pmip

@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{8810E4F8-6F06-4698-955D-07E9425C66D7}|Default">
+  <MonoDevelop.Ide.ItemProperties.FormsTest.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../OnsightApp/OnsightApp/OnsightApp/ViewModels/SalesApp/Document/ViewElements/DocumentLineViewElement.cs" line="47" offsetX="798" offsetY="738" expression="result.SuccessMessage" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FormsTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.84b274465a6bca07fcc23ddce7c4704256254c91" />
+</Properties>
