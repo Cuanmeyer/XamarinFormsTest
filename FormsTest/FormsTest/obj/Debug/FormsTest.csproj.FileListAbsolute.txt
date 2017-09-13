@@ -1,18 +1,40 @@
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\FormsTest.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\FormsTest.pdb
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\Xamarin.Forms.Core.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\Xamarin.Forms.Platform.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\Xamarin.Forms.Xaml.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\Xamarin.Forms.Core.pdb
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\Xamarin.Forms.Core.xml
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\Xamarin.Forms.Platform.pdb
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\Xamarin.Forms.Xaml.pdb
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\bin\Debug\Xamarin.Forms.Xaml.xml
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\obj\Debug\FormsTest.csprojResolveAssemblyReference.cache
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\obj\Debug\FormsTest.App.xaml.g.cs
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\obj\Debug\FormsTest.Views.AboutPage.xaml.g.cs
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\obj\Debug\FormsTest.Views.ItemDetailPage.xaml.g.cs
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\obj\Debug\FormsTest.Views.ItemsPage.xaml.g.cs
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\obj\Debug\FormsTest.Views.NewItemPage.xaml.g.cs
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\obj\Debug\FormsTest.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest\obj\Debug\FormsTest.pdb
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/FormsTest.dll
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/FormsTest.pdb
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Core.dll
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Platform.dll
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Xaml.dll
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Core.pdb
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Core.xml
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Platform.pdb
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Xaml.pdb
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Xaml.xml
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.csprojResolveAssemblyReference.cache
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.App.xaml.g.cs
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.Views.AboutPage.xaml.g.cs
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.Views.ItemDetailPage.xaml.g.cs
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.Views.ItemsPage.xaml.g.cs
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.Views.NewItemPage.xaml.g.cs
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.dll
+c:/users/cuan.meyer.maxxor/documents/visual studio 2017/Projects/FormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.pdb
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/FormsTest.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/FormsTest.pdb
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Core.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Core.xml
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.csprojResolveAssemblyReference.cache
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.csproj.CoreCompileInputs.cache
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.App.xaml.g.cs
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.Views.AboutPage.xaml.g.cs
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.Views.ItemDetailPage.xaml.g.cs
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.Views.ItemsPage.xaml.g.cs
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.Views.NewItemPage.xaml.g.cs
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest/obj/Debug/FormsTest.pdb

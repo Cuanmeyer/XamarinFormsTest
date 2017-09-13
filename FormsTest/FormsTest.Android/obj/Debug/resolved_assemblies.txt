@@ -1,47 +1,47 @@
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\FormsTest.Android.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\FormsTest.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\FormsViewGroup.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Java.Interop.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Mono.Android.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Core.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Net.Http.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Xml.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\mscorlib.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Runtime.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.ObjectModel.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Collections.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Threading.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Linq.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.ComponentModel.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Reflection.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Globalization.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.IO.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Text.RegularExpressions.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-c:\users\cuan.meyer.maxxor\documents\visual studio 2017\Projects\FormsTest\FormsTest\FormsTest.Android\obj\Debug\android\assets\Mono.Security.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/FormsTest.Android.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/FormsTest.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/FormsViewGroup.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Android.Support.Design.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Android.Support.v4.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.CardView.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Core.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Xml.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Resources.ResourceManager.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Diagnostics.Tools.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Diagnostics.Debug.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Threading.Tasks.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.ObjectModel.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Collections.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Threading.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Linq.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.ComponentModel.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Xml.ReaderWriter.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Reflection.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Globalization.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Linq.Expressions.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.IO.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Dynamic.Runtime.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Runtime.Extensions.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Reflection.Extensions.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Text.RegularExpressions.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Collections.Concurrent.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/System.Runtime.InteropServices.dll
+/Users/cuanmeyer/XamarinFormsTest/FormsTest/FormsTest.Android/obj/Debug/android/assets/Mono.Security.dll
